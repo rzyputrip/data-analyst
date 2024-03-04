@@ -1,4 +1,4 @@
-# Analisis Data Publik E-Commerce dengan Python - Dicoding
+# Analisis Data Publik E-Commerce
 
 ## [Klik di sini untuk melihat aplikasi](https://submission-esz6hbbjvziqngxrazzyk7.streamlit.app/)
 
@@ -16,7 +16,7 @@
 1. Clone repositori ini ke komputer lokal Anda:
 
 ```
-git clone https://github.com/Maretaaliana/data-analyst-dicoding.git
+git clone https://github.com/rzyputrip/data-analyst.git
 ```
 
 2. Buka direktori proyek
@@ -31,7 +31,7 @@ cd submission
 pip install -r requirements.txt
 ```
 
-## Penggunaan
+## Alur Pengerjaan Proyek Ini
 
 1. **Pemrosesan Data**: Script pemrosesan data tersedia dalam file `Proyek_Analisis_Data.ipynb` untuk mempersiapkan dan membersihkan data.
 
