@@ -16,19 +16,28 @@
 1. Clone repositori ini ke komputer lokal Anda:
 
 ```
-git clone https://github.com/rzyputrip/data-analyst.git
+ git clone -b master https://github.com/rzyputrip/data-analyst.git
+
 ```
 
 2. Buka direktori proyek
 
 ```
-cd submission
+cd data-analyst
 ```
 
 3. Instal paket Python yang diperlukan dengan menjalankan perintah:
 
 ```
 pip install -r requirements.txt
+```
+
+atau 
+
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
 ## Alur Pengerjaan Proyek Ini
