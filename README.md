@@ -49,7 +49,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 3. **Visualisasi**: Jalankan dashboard Streamlit untuk eksplorasi data interaktif:
 
 ```
-cd submission/dashboard
+cd data-analyst/dashboard
 streamlit run dashboard.py
 ```
 
